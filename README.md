@@ -23,4 +23,8 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/trqvu21/bai-tap-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/trqvu21/bai-tap-leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
