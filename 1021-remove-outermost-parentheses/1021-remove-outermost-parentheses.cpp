@@ -1,3 +1,4 @@
+//https://leetcode.com/problems/remove-outermost-parentheses/description/?envType=problem-list-v2&envId=w5zahxti
 class Solution {
 public:
     string removeOuterParentheses(string s) {
