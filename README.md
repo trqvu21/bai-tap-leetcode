@@ -54,6 +54,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0721-accounts-merge](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0721-accounts-merge/) | Medium |
 | [0853-car-fleet](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0853-car-fleet/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/trqvu21/bai-tap-leetcode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/trqvu21/bai-tap-leetcode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 ## Two Pointers
@@ -65,6 +66,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0556-next-greater-element-iii](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0556-next-greater-element-iii/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -94,6 +96,7 @@
 | [0561-array-partition](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0561-array-partition/) | Easy |
 | [0721-accounts-merge](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0721-accounts-merge/) | Medium |
 | [0853-car-fleet](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0853-car-fleet/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
