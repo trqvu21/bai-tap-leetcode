@@ -15,6 +15,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/trqvu21/bai-tap-leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/trqvu21/bai-tap-leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1370-increasing-decreasing-string](https://github.com/trqvu21/bai-tap-leetcode/tree/main/1370-increasing-decreasing-string/) | Easy |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/trqvu21/bai-tap-leetcode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/trqvu21/bai-tap-leetcode/tree/main/1974-minimum-time-to-type-word-using-special-typewriter/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -44,6 +45,7 @@
 | [0721-accounts-merge](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0721-accounts-merge/) | Medium |
 | [0853-car-fleet](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0853-car-fleet/) | Medium |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/trqvu21/bai-tap-leetcode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/trqvu21/bai-tap-leetcode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
