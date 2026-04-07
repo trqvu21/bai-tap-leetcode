@@ -45,6 +45,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0268-missing-number/) | Easy |
+| [0414-third-maximum-number](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [0495-teemo-attacking](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0495-teemo-attacking/) | Easy |
 | [0496-next-greater-element-i](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0539-minimum-time-difference](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0539-minimum-time-difference/) | Medium |
@@ -86,6 +87,7 @@
 | [0217-contains-duplicate](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0268-missing-number/) | Easy |
 | [0389-find-the-difference](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0389-find-the-difference/) | Easy |
+| [0414-third-maximum-number](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [0539-minimum-time-difference](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0539-minimum-time-difference/) | Medium |
 | [0721-accounts-merge](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0721-accounts-merge/) | Medium |
 | [0853-car-fleet](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0853-car-fleet/) | Medium |
