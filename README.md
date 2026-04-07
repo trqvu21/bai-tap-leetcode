@@ -50,6 +50,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0206-reverse-linked-list/) | Easy |
+| [0707-design-linked-list](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0707-design-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -126,4 +127,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0547-number-of-provinces/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0707-design-linked-list](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0707-design-linked-list/) | Medium |
 <!---LeetCode Topics End-->
