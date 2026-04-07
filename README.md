@@ -21,6 +21,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/trqvu21/bai-tap-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0495-teemo-attacking](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0495-teemo-attacking/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -49,4 +50,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0206-reverse-linked-list/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0495-teemo-attacking](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0495-teemo-attacking/) | Easy |
 <!---LeetCode Topics End-->
