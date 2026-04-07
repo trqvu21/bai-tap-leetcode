@@ -80,6 +80,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/trqvu21/bai-tap-leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0086-partition-list/) | Medium |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0206-reverse-linked-list/) | Easy |
@@ -148,6 +149,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -207,4 +209,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0561-array-partition](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0561-array-partition/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
