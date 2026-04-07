@@ -24,6 +24,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0496-next-greater-element-i](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0496-next-greater-element-i/) | Easy |
@@ -45,6 +46,7 @@
 | [0053-maximum-subarray](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0217-contains-duplicate/) | Easy |
@@ -167,6 +169,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0268-missing-number](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0268-missing-number/) | Easy |
 | [0539-minimum-time-difference](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0539-minimum-time-difference/) | Medium |
 | [0556-next-greater-element-iii](https://github.com/trqvu21/bai-tap-leetcode/tree/main/0556-next-greater-element-iii/) | Medium |
